@@ -7,4 +7,4 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: Runs every two minutes
-          run: echo "The current time is:$(date)"s
+          run: echo "The current time is:$(date)"
